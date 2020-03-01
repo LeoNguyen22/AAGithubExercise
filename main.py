@@ -10,7 +10,8 @@ def hinaMessage():
 #*************************************#
 
 # Leo's function goes here:
-
+def leoMessage():
+   return "Once in 2020, there's a guy named Leo, he was having a normal day, a normal month, a normal year in 2019; but 2020 hits, and now he is having his extended TET, which surprisingly is the worst thing ever happend to him. p.s: for the first time i actually like school (dont tell anyone this)....."
 
 
 #*************************************#
